@@ -1,4 +1,4 @@
-# Movies Extract, Transform, Load
+# Movies Database: Extract, Transform, Load
 
 The Purpose of this project was to extract, transform and load csv files into a jupyter notebook using pandas, clean and sharpen the data, then load it into SQL database. 
 
